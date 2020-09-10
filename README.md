@@ -1,5 +1,5 @@
 # Nomad Guide
-This is a list of places to visist with types of visa, requirements and cost to acquire it
+This is a list of places to visist with types of visa, requirements and cost to get it
 
 ## North America
 
