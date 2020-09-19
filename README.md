@@ -1,5 +1,5 @@
 # Nomad Guide
-This is a list of places to visist with types of visa, requirements and cost to get it
+This is a list of places to visist and live with types of visa, requirements and cost. The main pourpouse is to organize and give an overall idea of what each country has as system for helping people around the world.
 
 ## North America
 
