@@ -2,6 +2,7 @@
 This is a list of places to visist and live with types of visa, requirements and cost. The main pourpouse is to organize and give an overall idea of what each country has as system for helping people around the world.
 
 :warning: This "guide" is in construction
+<br>
 :warning: I'm not a immigration consultant
 
 ## North America
