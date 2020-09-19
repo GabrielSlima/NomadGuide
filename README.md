@@ -5,9 +5,22 @@ This is a list of places to visist with types of visa, requirements and cost to 
 
 ### [Canada](https://www.canada.ca/en.html)
 
+* [Immigration - all services ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html)
+* **[Immigrate through Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)** 
+    * [Check the Express Entry Programs comparison](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/compare.html)
+
 #### Key concepts:
-1. **Express Entry** is an **online system** that Canada uses to manage applications for **permanent residence** for 3 different programs: **Federal Skilled Worker Program, Federal Skilled Trades Program and Canadian Experience Class**
-1. **Express Entry** Works based in points, the more you get, the more likely you're going to get a PR
+1. **[Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html)** is an **online system** that Canada uses to manage applications for **permanent residence** for 3 different programs: **Federal Skilled Worker Program, Federal Skilled Trades Program and Canadian Experience Class**
+1. **[Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html)**  Works based in points, the more you get, the more likely you're going to get a PR
+1. **[National Occupational Classification (NOC)](https://noc.esdc.gc.ca/Home/Welcome/746c1d1b366b42aa885a9923e546fd1c?GoCTemplateCulture=en-CA)**: A system for job classification (It's a way for grouping jobs) - [Check the skills levels:](https://noc.esdc.gc.ca/Structure/ViewStructureList/bfe68872f9df4fb59fcc1f6266ad2b84)
+    1. Skill Type 0 (zero): Management jobs
+    1. Skill Level A: Professional jobs that usually call for a degree from a university
+    1. Skill Level B: Technical jobs and skilled trades that usually call for a college diploma or training as an apprentice
+    1. Skill Level C: Intermediate jobs that usually call for high school and/or job-specific training
+    1. Skill Level D: Labour jobs that usually give on-the-job training
+1. **[NOC-Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html)**
+
+
 
  Visa | System/Process/Program | Summary | Requirements | Proof of Funds | <p style="color: red">Total Cost</p> | Additional information |
 :----:|:------------:|:------------:|:------------:|:----:|:----:|:----------------------:|
