@@ -40,40 +40,11 @@ Permanent resident  | **(Provincial Nominee Program)** Express entry - Canadian 
 
 ## South America
 
-### [Canada](https://www.canada.ca/en.html)
- Visa | Requirements | Cost | Additional Description |
-:----:|:------------:|:----:|:----------------------:|
-Visa  | Requirement  | Cost | -                      |
-
-
-
 ## Europe
-
-### [Canada](https://www.canada.ca/en.html)
- Visa | Requirements | Cost | Additional Description |
-:----:|:------------:|:----:|:----------------------:|
-Visa  | Requirement  | Cost | -                      |
-
-
 
 ## Asia
 
-### [Canada](https://www.canada.ca/en.html)
- Visa | Requirements | Cost | Additional Description |
-:----:|:------------:|:----:|:----------------------:|
-Visa  | Requirement  | Cost | -                      |
-
-
-
 ## Africa
 
-### [Canada](https://www.canada.ca/en.html)
- Visa | Requirements | Cost | Additional Description |
-:----:|:------------:|:----:|:----------------------:|
-Visa  | Requirement  | Cost | -                      |
-
-
-
-
-### [Australia](https://www.canada.ca/en.html)
+### [Australia](https://info.australia.gov.au/information-and-services/immigration-and-visas)
 
